@@ -1,0 +1,15 @@
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net8.0\EmployeeWage.exe
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net8.0\EmployeeWage.deps.json
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net8.0\EmployeeWage.runtimeconfig.json
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net8.0\EmployeeWage.dll
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net8.0\EmployeeWage.pdb
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\EmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\EmployeeWage.AssemblyInfoInputs.cache
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\EmployeeWage.AssemblyInfo.cs
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\EmployeeWage.dll
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\refint\EmployeeWage.dll
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\EmployeeWage.pdb
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\EmployeeWage.genruntimeconfig.cache
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\ref\EmployeeWage.dll
+C:\Users\rohin\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net8.0\EmployeeWage.sourcelink.json
